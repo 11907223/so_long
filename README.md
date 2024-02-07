@@ -1,5 +1,8 @@
 **so_long**
 
+![Alt text](screenshot_map1.png)
+![Alt text](screenshot_map3_bonus.png)
+
 ---
 
 **Description:**
