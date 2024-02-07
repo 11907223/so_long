@@ -13,7 +13,7 @@ The project uses the minilibx-linux library created by the 42 Network.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/so_long.git
+   git@github.com:11907223/so_long.git
    ```
 
 2. Navigate to the project directory:
