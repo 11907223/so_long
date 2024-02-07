@@ -34,7 +34,7 @@ Run the game by executing the following command:
 ```bash
 ./so_long maps/[map_file]
 ```
-Replace `[map_file]` with any map file located in the `maps` directory.
+Replace `[map_file]` with any map file located in the `maps` directory. To play the game with an enemy, use the bonus maps.
 
 ---
 
