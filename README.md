@@ -1,4 +1,4 @@
-**so_long**
+## So_long 42 Project
 
 <img src="screenshot_map1.png" alt="Alt text" height="200">
 <img src="screenshot_map3_bonus.png" alt="Alt text" height="200">
